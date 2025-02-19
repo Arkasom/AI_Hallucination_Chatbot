@@ -1,0 +1,14 @@
+# Ignore the virtual environment created by Pipenv
+Pipfile.lock
+.virtualenvs/
+
+# Ignore environment variables and sensitive files
+.env
+
+
+# Ignore cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+logs/
